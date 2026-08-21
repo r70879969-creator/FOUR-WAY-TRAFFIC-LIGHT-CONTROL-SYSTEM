@@ -31,8 +31,7 @@ The Proteus schematic integrates the following subsystems:
 
 ### Installation & Execution
 1. ##Project demonstration
-2. [click here to watch the proteus simulation video]
-3. ()
+2. click here to watch the proteus simulation video[https://youtu.be/5l-kpTfBlr4?si=ZCGYdNp71yYcAZAB]
 4.  Open the MikroC project file (`.mcppi`) to view or modify the C source code.
 5.  Compile the code to generate the `traffic.hex` file.
 6.  Open the Proteus simulation file (`.pdsprj`).
